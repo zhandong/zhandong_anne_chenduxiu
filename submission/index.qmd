@@ -20,11 +20,9 @@ author:
     affiliations:
       - Baylor Medicine College
 keywords:
-  - Keyword 1
-  - Keyword 2
-  - Keyword 3
-  - Keyword 4 (optional)
-  - Keyword 5 (optional)
+  - Keyword Capitalism
+  - Keyword Communism
+  - Keyword ChatGPT
 abstract: |
   We intend to leverage ChatGPT to detect changes in Chen’s thinking about the theory and practice of Marxism and Communism. Through embedding and prompt engineering, we plan to extract topic sentences, generate summary statements and estimate topic opinions on these summaries. Our work introduces two key innovations: 1) the utilization of advanced AI methodologies grounded in extensive language models, as opposed to traditional statistical techniques that often relied on oversimplified assumptions, and 2) an extension of our analysis to sentences rather than individual words, allowing for richer contextual understanding. 
 key-points:
