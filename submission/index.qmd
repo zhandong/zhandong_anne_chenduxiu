@@ -20,17 +20,20 @@ author:
     affiliations:
       - Baylor Medicine College
 keywords:
-  - Keyword 1
-  - Keyword 2
-  - Keyword 3
-  - Keyword 4 (optional)
-  - Keyword 5 (optional)
+  - Keyword capitalism
+  - Keyword communism
+  - Keyword ChatGPT
 abstract: |
-  We intend to leverage ChatGPT to detect changes in Chen’s thinking about the theory and practice of Marxism and Communism. Through embedding and prompt engineering, we plan to extract topic sentences, generate summary statements and estimate topic opinions on these summaries. Our work introduces two key innovations: 1) the utilization of advanced AI methodologies grounded in extensive language models, as opposed to traditional statistical techniques that often relied on oversimplified assumptions, and 2) an extension of our analysis to sentences rather than individual words, allowing for richer contextual understanding. 
+We propose to examine the writing of the founder of the Chinese Communist Party, Chen Duxiu (1879-1942), by using the innovative AI technique ChatGPT. We intend to leverage ChatGPT to detect change in Chen’s thinking about politics, specifically on his thoughts about capitalism and communism.
+ 
+The central objective is to compare the efficacy of our 2021 work on co-occurrence network methodology with the novel ChatGPT approach. We seek the best method to trace Chen's ideological evolution—from an early advocate of Western-style democracy to a proponent of Marxism and communism, and to a final reckoning at the end of his life. Our tools include ChatGPT, LLaMA, GPT-API, and Python. Early finding is that the concept (topic-modeling) by GPT is accurate but constrained by word limits. We will need more time to do a finer comparison. Our finding is that Llamas with 2x7billioin parameters model is not adequate in providing a summary, whereas ChatGPT-4 is strong is summarizing straight-forward analysis, but would need more prompt engineering to detect multiple and nuanced points of view.
+ 
+We offer two innovations in this paper: 1) the utilization of advanced AI methodologies grounded in extensive language models, as opposed to traditional statistical techniques that often relied on oversimplified assumptions, and 2) an extension of our analysis to sentences rather than individual words, allowing for richer contextual understanding.  
+
 key-points:
-  - Key point 1 (1 sentence)
-  - Key point 2 (1 sentence)
-  - Key point 3 (1 sentence)
+  - Key point 1 We strive to detect the evolution of political convictions in the writings of the founder of the Chinese Communist Party with AI tools by posing a question: "Is this article in favor of communism or capitalism?”
+  - Key point 2 Llamas [proper name?] was used for interpreting Chinese text but provided an inadequate summary.
+  - Key point 3 ChatGPT offered a good analysis when the text contained one strong point of view, but encountered challenges when multiple perspectives were present in the same text.
 date: 03-17-2024
 bibliography: references.bib
 ---
